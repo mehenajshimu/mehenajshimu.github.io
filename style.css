@@ -87,7 +87,52 @@ header{
 
 }
 
-/* Header Start */
+/* Header End */
+
+
+
+
+/* Form Start */
+
+  .form1{
+
+       background-color: crimson;
+       color: white;
+       text-align: center;
+       font-size: 40px;
+       margin: 0 auto;
+       width: fit-content;
+       height: fit-content;
+       padding: 20px 80px;
+       margin-top: 30px;
+       border-radius: 5%;
+       box-shadow: rgb(240, 142, 158);
+       
+
+   }
+
+   .form1 input{
+
+    padding: 5px 50px;
+    border-radius: 50px;
+    border-color: crimson;
+   }
+
+   .form1 .btn{
+
+    font-weight: bold;
+   }
+
+
+
+
+
+
+
+
+
+
+/* Form End */
 
 /* Footer Start */
 
@@ -139,7 +184,7 @@ footer{
 
 
     
-}
+
 
 
 
